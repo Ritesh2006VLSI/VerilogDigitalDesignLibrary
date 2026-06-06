@@ -8,6 +8,3 @@ This folder contains sequential logic circuits implemented in Verilog HDL.
 - [ ] D Flip-Flop
 - [ ] JK Flip-Flop
 - [ ] T Flip-Flop
-- [ ] Register
-- [ ] Shift Register
-- [ ] Universal Shift Register
