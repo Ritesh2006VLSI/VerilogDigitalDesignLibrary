@@ -1,4 +1,4 @@
-# 📘 Digital Design Circuits using Verilog HDL
+# 📘 Digital Design Circuits (Basic Circuits)
 
 A collection of fundamental digital circuits implemented in **Verilog HDL** for learning, practice, and reference.
 
