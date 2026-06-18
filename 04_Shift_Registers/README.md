@@ -4,8 +4,8 @@ This folder contains shift register circuits implemented in Verilog HDL.
 
 ## Circuits
 
-- [ ] SISO Shift Register
-- [ ] SIPO Shift Register
-- [ ] PISO Shift Register
-- [ ] PIPO Shift Register
-- [ ] Universal Shift Register
+1. SISO (Serial In Serial Out)
+2. SIPO (Serial In Parallel Out)
+3. PISO (Parallel In Serial Out)
+4. PIPO (Parallel In Parallel Out)
+5. Universal Shift Register (USR)
