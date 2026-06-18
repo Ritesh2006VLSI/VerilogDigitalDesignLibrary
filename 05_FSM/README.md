@@ -4,8 +4,8 @@ This folder contains FSM-based designs implemented in Verilog HDL.
 
 ## Circuits
 
-- [ ] Sequence Detector (Overlapping)
-- [ ] Sequence Detector (Non-Overlapping)
-- [ ] Traffic Light Controller
-- [ ] Vending Machine Controller
-- [ ] Elevator Controller
+1. Sequence Detector (Overlapping)
+2. Sequence Detector (Non-Overlapping)
+3. Traffic Light Controller
+4. Vending Machine Controller
+5. Elevator Controller
