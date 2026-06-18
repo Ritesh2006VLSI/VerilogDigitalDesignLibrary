@@ -1,5 +1,7 @@
 # Counters
 
+This folder contains counter circuits implemented in Verilog HDL.
+
 ## Implemented Designs
 
 1. Up Counter
