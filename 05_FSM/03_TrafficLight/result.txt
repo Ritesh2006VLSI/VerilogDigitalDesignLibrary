@@ -1,93 +1,67 @@
 # run 1000ns
-ActiveSide=00 | Timer=0 | Emer=0000 | Traf=0000 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
-ActiveSide=00 | Timer=0 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
-ActiveSide=00 | Timer=1 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
-ActiveSide=00 | Timer=2 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
-ActiveSide=00 | Timer=3 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
-ActiveSide=00 | Timer=4 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
-ActiveSide=00 | Timer=5 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
-ActiveSide=00 | Timer=6 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
-ActiveSide=00 | Timer=7 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
-ActiveSide=00 | Timer=8 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
-ActiveSide=00 | Timer=9 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
-ActiveSide=00 | Timer=10 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
-ActiveSide=00 | Timer=11 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:010 S2:001 S3:001 S4:001
-ActiveSide=00 | Timer=12 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:010 S2:001 S3:001 S4:001
-ActiveSide=00 | Timer=13 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:010 S2:001 S3:001 S4:001
-ActiveSide=00 | Timer=14 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:010 S2:001 S3:001 S4:001
-ActiveSide=01 | Timer=0 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:100 S3:001 S4:001
-ActiveSide=01 | Timer=1 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:100 S3:001 S4:001
-ActiveSide=01 | Timer=2 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:100 S3:001 S4:001
-ActiveSide=01 | Timer=3 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:100 S3:001 S4:001
-ActiveSide=01 | Timer=4 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:100 S3:001 S4:001
-ActiveSide=01 | Timer=5 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:100 S3:001 S4:001
-ActiveSide=01 | Timer=6 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:100 S3:001 S4:001
-ActiveSide=01 | Timer=7 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:100 S3:001 S4:001
-ActiveSide=01 | Timer=8 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:100 S3:001 S4:001
-ActiveSide=01 | Timer=9 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:100 S3:001 S4:001
-ActiveSide=01 | Timer=10 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:100 S3:001 S4:001
-ActiveSide=01 | Timer=11 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:010 S3:001 S4:001
-ActiveSide=01 | Timer=12 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:010 S3:001 S4:001
-ActiveSide=01 | Timer=13 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:010 S3:001 S4:001
-ActiveSide=01 | Timer=14 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:010 S3:001 S4:001
-ActiveSide=10 | Timer=0 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
-ActiveSide=10 | Timer=0 | Emer=0010 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
-ActiveSide=10 | Timer=1 | Emer=0010 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
-ActiveSide=10 | Timer=2 | Emer=0010 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
-ActiveSide=10 | Timer=3 | Emer=0010 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
-ActiveSide=10 | Timer=4 | Emer=0010 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
-ActiveSide=10 | Timer=5 | Emer=0010 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
-ActiveSide=10 | Timer=6 | Emer=0010 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
-ActiveSide=10 | Timer=7 | Emer=0010 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
-ActiveSide=10 | Timer=8 | Emer=0010 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
-ActiveSide=10 | Timer=9 | Emer=0010 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
-ActiveSide=10 | Timer=10 | Emer=0010 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
-ActiveSide=10 | Timer=11 | Emer=0010 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:010 S4:001
-ActiveSide=10 | Timer=12 | Emer=0010 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:010 S4:001
-ActiveSide=10 | Timer=13 | Emer=0010 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:010 S4:001
-ActiveSide=10 | Timer=14 | Emer=0010 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:010 S4:001
-ActiveSide=10 | Timer=0 | Emer=0010 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
-ActiveSide=10 | Timer=1 | Emer=0010 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
-ActiveSide=10 | Timer=2 | Emer=0010 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
-ActiveSide=10 | Timer=3 | Emer=0010 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
-ActiveSide=10 | Timer=4 | Emer=0010 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
-ActiveSide=10 | Timer=5 | Emer=0010 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
-ActiveSide=10 | Timer=5 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
-ActiveSide=10 | Timer=6 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
-ActiveSide=10 | Timer=7 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
-ActiveSide=10 | Timer=8 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
-ActiveSide=10 | Timer=9 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
-ActiveSide=10 | Timer=10 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
-ActiveSide=10 | Timer=11 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:010 S4:001
-ActiveSide=10 | Timer=12 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:010 S4:001
-ActiveSide=10 | Timer=13 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:010 S4:001
-ActiveSide=10 | Timer=14 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:010 S4:001
-ActiveSide=11 | Timer=0 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:001 S4:100
-ActiveSide=11 | Timer=1 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:001 S4:100
-ActiveSide=11 | Timer=2 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:001 S4:100
-ActiveSide=11 | Timer=3 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:001 S4:100
-ActiveSide=11 | Timer=4 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:001 S4:100
-ActiveSide=11 | Timer=5 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:001 S4:100
-ActiveSide=11 | Timer=5 | Emer=0000 | Traf=0000 | Lights(G Y R) S1:001 S2:001 S3:001 S4:100
-ActiveSide=11 | Timer=5 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:001 S2:001 S3:001 S4:100
-ActiveSide=11 | Timer=10 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:001 S2:001 S3:001 S4:100
-ActiveSide=11 | Timer=11 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:001 S2:001 S3:001 S4:010
-ActiveSide=11 | Timer=12 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:001 S2:001 S3:001 S4:010
-ActiveSide=11 | Timer=13 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:001 S2:001 S3:001 S4:010
-ActiveSide=11 | Timer=14 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:001 S2:001 S3:001 S4:010
-ActiveSide=00 | Timer=0 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
-ActiveSide=00 | Timer=1 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
-ActiveSide=00 | Timer=2 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
-ActiveSide=00 | Timer=3 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
-ActiveSide=00 | Timer=4 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
-ActiveSide=00 | Timer=5 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
-ActiveSide=00 | Timer=6 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
-ActiveSide=00 | Timer=7 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
-ActiveSide=00 | Timer=8 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
-ActiveSide=00 | Timer=9 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
-ActiveSide=00 | Timer=10 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
-ActiveSide=00 | Timer=11 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:010 S2:001 S3:001 S4:001
-ActiveSide=00 | Timer=12 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:010 S2:001 S3:001 S4:001
-ActiveSide=00 | Timer=13 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:010 S2:001 S3:001 S4:001
-ActiveSide=00 | Timer=14 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:010 S2:001 S3:001 S4:001
-$finish called at time : 117 ns
+NightMode=0 | ActiveSide=00 | Timer=0 | Emer=0000 | Traf=0000 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
+NightMode=0 | ActiveSide=00 | Timer=0 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
+NightMode=0 | ActiveSide=00 | Timer=1 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
+NightMode=0 | ActiveSide=00 | Timer=2 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
+NightMode=0 | ActiveSide=00 | Timer=3 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
+NightMode=0 | ActiveSide=00 | Timer=4 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
+NightMode=0 | ActiveSide=00 | Timer=5 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
+NightMode=0 | ActiveSide=00 | Timer=6 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
+NightMode=0 | ActiveSide=00 | Timer=7 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
+NightMode=0 | ActiveSide=00 | Timer=8 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
+NightMode=0 | ActiveSide=00 | Timer=9 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
+NightMode=0 | ActiveSide=00 | Timer=10 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
+NightMode=0 | ActiveSide=00 | Timer=11 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:010 S2:001 S3:001 S4:001
+NightMode=0 | ActiveSide=00 | Timer=12 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:010 S2:001 S3:001 S4:001
+NightMode=0 | ActiveSide=00 | Timer=13 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:010 S2:001 S3:001 S4:001
+NightMode=0 | ActiveSide=00 | Timer=14 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:010 S2:001 S3:001 S4:001
+NightMode=0 | ActiveSide=01 | Timer=0 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:100 S3:001 S4:001
+NightMode=0 | ActiveSide=01 | Timer=0 | Emer=0010 | Traf=1111 | Lights(G Y R) S1:001 S2:100 S3:001 S4:001
+NightMode=0 | ActiveSide=01 | Timer=10 | Emer=0010 | Traf=1111 | Lights(G Y R) S1:001 S2:100 S3:001 S4:001
+NightMode=0 | ActiveSide=01 | Timer=11 | Emer=0010 | Traf=1111 | Lights(G Y R) S1:001 S2:010 S3:001 S4:001
+NightMode=0 | ActiveSide=01 | Timer=12 | Emer=0010 | Traf=1111 | Lights(G Y R) S1:001 S2:010 S3:001 S4:001
+NightMode=0 | ActiveSide=01 | Timer=13 | Emer=0010 | Traf=1111 | Lights(G Y R) S1:001 S2:010 S3:001 S4:001
+NightMode=0 | ActiveSide=01 | Timer=14 | Emer=0010 | Traf=1111 | Lights(G Y R) S1:001 S2:010 S3:001 S4:001
+NightMode=0 | ActiveSide=10 | Timer=0 | Emer=0010 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
+NightMode=0 | ActiveSide=10 | Timer=1 | Emer=0010 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
+NightMode=0 | ActiveSide=10 | Timer=2 | Emer=0010 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
+NightMode=0 | ActiveSide=10 | Timer=3 | Emer=0010 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
+NightMode=0 | ActiveSide=10 | Timer=4 | Emer=0010 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
+NightMode=0 | ActiveSide=10 | Timer=4 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
+NightMode=0 | ActiveSide=10 | Timer=5 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
+NightMode=0 | ActiveSide=10 | Timer=6 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
+NightMode=0 | ActiveSide=10 | Timer=7 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
+NightMode=0 | ActiveSide=10 | Timer=8 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
+NightMode=0 | ActiveSide=10 | Timer=9 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
+NightMode=0 | ActiveSide=10 | Timer=10 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
+NightMode=0 | ActiveSide=10 | Timer=11 | Emer=0000 | Traf=1111 | Lights(G Y R) S1:001 S2:001 S3:010 S4:001
+NightMode=0 | ActiveSide=10 | Timer=12 | Emer=0000 | Traf=0000 | Lights(G Y R) S1:001 S2:001 S3:010 S4:001
+NightMode=0 | ActiveSide=10 | Timer=13 | Emer=0000 | Traf=0000 | Lights(G Y R) S1:001 S2:001 S3:010 S4:001
+NightMode=0 | ActiveSide=10 | Timer=14 | Emer=0000 | Traf=0000 | Lights(G Y R) S1:001 S2:001 S3:010 S4:001
+NightMode=0 | ActiveSide=10 | Timer=0 | Emer=0000 | Traf=0000 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
+NightMode=0 | ActiveSide=10 | Timer=10 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:001 S2:001 S3:100 S4:001
+NightMode=0 | ActiveSide=10 | Timer=11 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:001 S2:001 S3:010 S4:001
+NightMode=0 | ActiveSide=10 | Timer=12 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:001 S2:001 S3:010 S4:001
+NightMode=0 | ActiveSide=10 | Timer=13 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:001 S2:001 S3:010 S4:001
+NightMode=0 | ActiveSide=10 | Timer=14 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:001 S2:001 S3:010 S4:001
+NightMode=0 | ActiveSide=00 | Timer=0 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
+NightMode=0 | ActiveSide=00 | Timer=1 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
+NightMode=0 | ActiveSide=00 | Timer=2 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
+NightMode=0 | ActiveSide=00 | Timer=3 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
+NightMode=0 | ActiveSide=00 | Timer=4 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
+NightMode=1 | ActiveSide=00 | Timer=0 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:010 S2:010 S3:010 S4:010
+NightMode=1 | ActiveSide=00 | Timer=0 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:000 S2:000 S3:000 S4:000
+NightMode=1 | ActiveSide=00 | Timer=0 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:010 S2:010 S3:010 S4:010
+NightMode=1 | ActiveSide=00 | Timer=0 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:000 S2:000 S3:000 S4:000
+NightMode=1 | ActiveSide=00 | Timer=0 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:010 S2:010 S3:010 S4:010
+NightMode=1 | ActiveSide=00 | Timer=0 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:000 S2:000 S3:000 S4:000
+NightMode=1 | ActiveSide=00 | Timer=0 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:010 S2:010 S3:010 S4:010
+NightMode=1 | ActiveSide=00 | Timer=0 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:000 S2:000 S3:000 S4:000
+NightMode=1 | ActiveSide=00 | Timer=0 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:010 S2:010 S3:010 S4:010
+NightMode=1 | ActiveSide=00 | Timer=0 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:000 S2:000 S3:000 S4:000
+NightMode=0 | ActiveSide=00 | Timer=1 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
+NightMode=0 | ActiveSide=00 | Timer=2 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
+NightMode=0 | ActiveSide=00 | Timer=3 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
+NightMode=0 | ActiveSide=00 | Timer=4 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
+NightMode=0 | ActiveSide=00 | Timer=5 | Emer=0000 | Traf=1000 | Lights(G Y R) S1:100 S2:001 S3:001 S4:001
+$finish called at time : 137 ps
