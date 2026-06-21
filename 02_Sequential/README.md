@@ -11,3 +11,5 @@ This folder contains sequential logic circuits implemented in Verilog HDL.
 5. JK Flip-Flop
 6. T Flip-Flop
 7. Clock Divider
+8. DigitalClock
+
